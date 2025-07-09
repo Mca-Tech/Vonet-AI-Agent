@@ -1,0 +1,1 @@
+This is the folder where the PIPER text to speech files will be stored.
