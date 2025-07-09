@@ -46,7 +46,7 @@ def load_instruc():
 
     **Output Elements:**
     * **<thinking>**: Your reasoning process and planning
-    * **<tts>**: Text-to-speech message spoken to the user (keep brief)
+    * **<tts>**: Text-to-speech message spoken to the user
     * **<command>**: PowerShell script to execute (must be valid syntax when action required). Leaved it empty of no valid powershell command to execute.
     * **<state>**: 
     * pause: Vonet is idle or has completed a task
