@@ -4,6 +4,8 @@ Vonet is an experimental, autonomous AI agent for Windows, powered by Google's G
 
 It features a user-friendly interface built with CustomTkinter, text-to-speech (TTS) for voice feedback, and a memory system to provide a personalized experience.
 
+![VONET](assets/screenshot.PNG)
+
 ---
 
 ## ⚠️ Important Warning
@@ -75,7 +77,7 @@ pip install -r requirements.txt
 
 The project expects the [Piper](https://github.com/rhasspy/piper) TTS engine to be in a directory named `piper/` within the project folder. Ensure you have downloaded and placed the Piper executable and model files there.
 
-**Download the full setup PIPER [Here](https://github.com/rhasspy/piper)**. Extract it and move it into `piper/` directory within the project folder.
+**Download the full setup PIPER [Here](https://github.com/Mca-Tech/Vonet-AI-Agent/releases/download/v1.0.0/piper_tts.zip)**. Extract it and move it into `piper/` directory within the project folder.
 
 ### 4. Running Vonet
 
