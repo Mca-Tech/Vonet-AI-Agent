@@ -1,16 +1,8 @@
 # Vonet - The Autonomous AI PC Agent
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-experimental-orange.svg)
-
 Vonet is an experimental, autonomous AI agent for Windows, powered by Google's Gemini model. It's designed to understand your commands in natural language and execute them using PowerShell, effectively acting as an AI assistant with direct control over your PC.
 
 It features a user-friendly interface built with CustomTkinter, text-to-speech (TTS) for voice feedback, and a memory system to provide a personalized experience.
-
-
-*(Suggestion: Record a short GIF of Vonet in action and replace the link above!)*
 
 ---
 
@@ -136,7 +128,7 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Apache License. See the `LICENSE` file for details.
 
 ---
 
