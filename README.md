@@ -4,6 +4,10 @@ Vonet is an experimental, autonomous AI agent for Windows, powered by Google's G
 
 It features a user-friendly interface built with CustomTkinter, text-to-speech (TTS) for voice feedback, and a memory system to provide a personalized experience.
 
+## Watch the DEMO video
+-    [*FACEBOOK*](https://www.facebook.com/share/v/14EdzP5ifdm/)
+
+## Screenshot
 ![VONET](assets/screenshot.PNG)
 
 ---
